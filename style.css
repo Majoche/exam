@@ -1,0 +1,242 @@
+
+#hoved {
+	height: 100%;
+    overflow: scroll;
+	margin: 0;
+	padding: 0;
+	overflow-x: hidden;
+}
+
+#about {
+	height: 100%;
+    overflow: scroll;
+	margin: 0;
+	padding: 0;
+	overflow-x: hidden;
+}
+
+#services {
+	height: 100%;
+    overflow: scroll;
+	margin: 0;
+	padding: 0;
+	overflow-x: hidden;
+}
+
+#logo {
+	font-size: 2.51rem;
+}
+
+#particles-js {
+	position: fixed;
+    width: 100%;
+    height: auto;
+	
+}
+
+#SM {
+	background-color: transparent!important;
+	text-decoration: none!important;
+	font-size: 1.1rem;
+	box-shadow: none;
+}
+
+#SM2 {
+	background-color: transparent;
+	text-decoration: none!important;
+	font-size: 1.1rem;
+	box-shadow: none;
+	color: black;
+}
+
+.navbar-brand {
+	font-family: 'Pacifico', cursive;
+	color: black;
+}
+
+.display-3 {
+	color: white;
+	font-family: "Merriweather", serif;
+	font-size: 4em!important;
+
+}
+.display-4 {
+	color: white;
+	font-weight: bolder;
+	font-family: "Merriweather", serif;
+
+}
+
+.lead {
+	color: white;
+	margin-bottom:-1rem;
+}
+
+#lead2 {
+	color: white;
+	margin-bottom:0.3rem;
+}
+
+#servLead{
+	color: black;
+	margin-top: rem;
+	font-weight: bold;
+	font-size: 2rem;
+	font-family: "Merriweather", serif;
+}
+
+#servBio{
+	color: black;
+	font-size: 1.1rem;
+	padding-left: rem;
+	padding-right: rem;
+	font-family: "Merriweather", serif;
+}
+
+#omoss {
+	border-radius: 25px;
+    border: 2px solid #FFF;
+	background-color: transparent;
+	font-weight: bold;
+	font-size: 1.1rem;
+	margin-top:1rem;
+}
+
+#contentLanding {
+	margin-top: 9rem;
+	padding-bottom: 6rem;
+}
+#contentLanding2 {
+	margin-top: 1rem;
+	padding-bottom: 3rem;
+}
+
+
+.white-text {
+	font-size: 1.5rem;
+}
+
+#employee {
+	margin-bottom: 6rem;
+}
+
+#overskrift {
+	font-size: 3.3rem;
+	font-family: "Merriweather", serif;
+	margin-bottom: 1rem;
+}
+
+#overskrift2 {
+	font-size: 2.7rem;
+	font-family: "Merriweather", serif;
+	margin-bottom: 1rem;
+}
+
+#litenOverskrift {
+	font-size: 1.7rem;
+	font-family: "Merriweather", serif;
+	margin-bottom: 1rem;
+}
+
+.sub-heading {
+	font-family: "Merriweather", serif;
+	line-height: 1.9rem;
+}
+
+#team {
+	margin-top: 5rem;
+}
+
+#innhold {
+	padding: 2rem;
+	margin-top: 8rem;
+}
+
+#innhold2 {
+	padding: 2rem;
+	margin-top: 3rem;
+}
+
+#innhold3 {
+	padding: 2rem;
+	margin-top: 1rem;
+}
+
+#bioBilde {
+	margin-bottom: 3rem;
+	animation-duration: 1.3s;
+}
+
+
+#test2 {
+	background-color: white;
+	font-family: "Merriweather", serif;
+	color: black;
+}
+
+#innholdServ {
+	background-color: white;
+	color: black;
+	padding-bottom: 4rem;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+	margin-bottom: 6rem;
+}
+
+#innholdPort {
+	background-color: transparent!important;
+	color: black;
+	padding-bottom: 4rem;
+    background-clip: border-box;
+    border-radius: .25rem;
+	margin-bottom: 6rem;
+	font-family: "Merriweather", serif;
+	margin-top: 5rem;
+}
+
+#bildePort {
+	background-color: transparent;
+	padding-bottom: 3rem;
+	margin-top: 5rem;
+	
+}
+
+#spaceCol {
+	margin: -5.9rem!important;
+	padding: 0!important;
+}
+
+.card-title {
+	font-family: "Merriweather", serif;
+	font-size: 2rem;
+}
+
+
+.grey-text {
+	font-size: 0.9rem;
+}
+
+hr {
+	width: 60%;
+}
+
+
+@media (min-width: 370px) {  
+  h2#overskrift {font-size:2.5rem!important;} 
+}
+ 
+@media (min-width: 768px) {  
+  h2#overskrift {font-size:2rem;} 
+}
+
+
+
+Med alt samlet under ett tak midt i hjertet av Oslo Sentrum, skaper vi en unik kreativ strøm og er lett tilgjengelig for våre kunder. Vi lever for å formidle, la oss formidle deres budskap. Dette er litt av hva vi kan gjøre for dere
+
+
+
+
+
+
